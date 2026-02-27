@@ -20,6 +20,7 @@ CoffeeMachine).
 PostgresProductRepository.
 3. Logikę aplikacji / UI – Menu, ProductFactory.
 4. Punkt startowy – main.cpp.
+
 Poniżej przedstawiono wszystkie klasy programu oraz zależności pomiędzy nimi:
 • Product - klasa bazowa dla wszystkich produktów,
 • Coffee, Grinder, Brewer, CoffeeMachine - dziedziczą po Product,
